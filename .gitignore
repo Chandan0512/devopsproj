@@ -1,0 +1,16 @@
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# Terraform plan output
+*.tfplan
+
+# Local CLI config
+.terraform/
+
+# AWS credentials (if any)
+*.pem
+*.key
